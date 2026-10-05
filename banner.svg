@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#0A2C5E" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" fill="#011D47"/>
+  <rect width="1280" height="320" fill="url(#grid)" opacity="0.6"/>
+  <!-- Mark: geometric D with blue stem -->
+  <g transform="translate(96 96)">
+    <rect x="0" y="64" width="34" height="64" rx="8" fill="#0288FE"/>
+    <path d="M44 0h28c36 0 64 28.6 64 64s-28 64-64 64H44V96h28c17.7 0 32-14.3 32-32S89.7 32 72 32H44z" fill="#FFFFFF"/>
+    <rect x="0" y="0" width="34" height="56" rx="8" fill="#FFFFFF"/>
+  </g>
+  <g font-family="'Plus Jakarta Sans','Manrope','Inter','Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="288" y="140" fill="#FFFFFF" font-size="60" font-weight="800" letter-spacing="-1.5">Dennis Miano</text>
+    <text x="290" y="186" fill="#8CC8FF" font-size="26" font-weight="600">Full Stack Software Developer · Nairobi, Kenya</text>
+    <text x="290" y="232" fill="#B8C4D6" font-size="20" font-weight="500">Websites · Custom Systems · SaaS · Mobile Apps · Automation · IoT</text>
+  </g>
+  <rect x="0" y="312" width="1280" height="8" fill="#0288FE"/>
+</svg>
