@@ -35,13 +35,65 @@ I've spent **6+ years** shipping software for clients in Kenya and abroad, with 
 
 ## Tech I work with
 
-**Frontend** · React · JavaScript · HTML · CSS · Tailwind · Bootstrap · Leaflet · Mapbox<br>
-**Mobile** · Flutter · Dart<br>
-**Backend** · PostgreSQL · MySQL · Django · Ruby on Rails · Supabase · Firebase · GeoServer · MinIO<br>
-**Data & ML** · Python · R · TensorFlow · PyTorch · scikit-learn · NumPy · Grafana · Excel<br>
-**IoT** · Arduino · C/C++<br>
-**DevOps** · Git · GitHub · GitLab · Docker · Linux · Cloudflare · AWS · Vultr<br>
-**Design** · Figma · Adobe Illustrator
+<p><b>Frontend</b><br>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="./icons/html5.svg" width="44" height="44" alt="HTML"></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="./icons/css.svg" width="44" height="44" alt="CSS"></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="./icons/javascript.svg" width="44" height="44" alt="JavaScript"></a>
+  <a href="https://react.dev" title="React"><img src="./icons/react.svg" width="44" height="44" alt="React"></a>
+  <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="./icons/tailwindcss.svg" width="44" height="44" alt="Tailwind CSS"></a>
+  <a href="https://getbootstrap.com" title="Bootstrap"><img src="./icons/bootstrap.svg" width="44" height="44" alt="Bootstrap"></a>
+  <a href="https://leafletjs.com" title="Leaflet"><img src="./icons/leaflet.svg" width="44" height="44" alt="Leaflet"></a>
+  <a href="https://www.mapbox.com" title="Mapbox"><img src="./icons/mapbox.svg" width="44" height="44" alt="Mapbox"></a>
+</p>
+
+<p><b>Mobile</b><br>
+  <a href="https://flutter.dev" title="Flutter"><img src="./icons/flutter.svg" width="44" height="44" alt="Flutter"></a>
+  <a href="https://dart.dev" title="Dart"><img src="./icons/dart.svg" width="44" height="44" alt="Dart"></a>
+</p>
+
+<p><b>Backend</b><br>
+  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="./icons/postgresql.svg" width="44" height="44" alt="PostgreSQL"></a>
+  <a href="https://www.mysql.com" title="MySQL"><img src="./icons/mysql.svg" width="44" height="44" alt="MySQL"></a>
+  <a href="https://www.djangoproject.com" title="Django"><img src="./icons/django.svg" width="44" height="44" alt="Django"></a>
+  <a href="https://rubyonrails.org" title="Ruby on Rails"><img src="./icons/rubyonrails.svg" width="44" height="44" alt="Ruby on Rails"></a>
+  <a href="https://supabase.com" title="Supabase"><img src="./icons/supabase.svg" width="44" height="44" alt="Supabase"></a>
+  <a href="https://firebase.google.com" title="Firebase"><img src="./icons/firebase.svg" width="44" height="44" alt="Firebase"></a>
+  <a href="https://geoserver.org" title="GeoServer"><img src="./icons/geoserver.svg" width="44" height="44" alt="GeoServer"></a>
+  <a href="https://min.io" title="MinIO"><img src="./icons/minio.svg" width="44" height="44" alt="MinIO"></a>
+</p>
+
+<p><b>Data & ML</b><br>
+  <a href="https://www.python.org" title="Python"><img src="./icons/python.svg" width="44" height="44" alt="Python"></a>
+  <a href="https://www.r-project.org" title="R"><img src="./icons/r.svg" width="44" height="44" alt="R"></a>
+  <a href="https://www.tensorflow.org" title="TensorFlow"><img src="./icons/tensorflow.svg" width="44" height="44" alt="TensorFlow"></a>
+  <a href="https://pytorch.org" title="PyTorch"><img src="./icons/pytorch.svg" width="44" height="44" alt="PyTorch"></a>
+  <a href="https://scikit-learn.org" title="scikit-learn"><img src="./icons/scikitlearn.svg" width="44" height="44" alt="scikit-learn"></a>
+  <a href="https://numpy.org" title="NumPy"><img src="./icons/numpy.svg" width="44" height="44" alt="NumPy"></a>
+  <a href="https://grafana.com" title="Grafana"><img src="./icons/grafana.svg" width="44" height="44" alt="Grafana"></a>
+  <a href="https://www.microsoft.com/microsoft-365/excel" title="Excel"><img src="./icons/excel.svg" width="44" height="44" alt="Excel"></a>
+</p>
+
+<p><b>IoT</b><br>
+  <a href="https://www.arduino.cc" title="Arduino"><img src="./icons/arduino.svg" width="44" height="44" alt="Arduino"></a>
+  <a href="https://en.cppreference.com/w/c" title="C"><img src="./icons/c.svg" width="44" height="44" alt="C"></a>
+  <a href="https://isocpp.org" title="C++"><img src="./icons/cplusplus.svg" width="44" height="44" alt="C++"></a>
+</p>
+
+<p><b>DevOps</b><br>
+  <a href="https://git-scm.com" title="Git"><img src="./icons/git.svg" width="44" height="44" alt="Git"></a>
+  <a href="https://github.com" title="GitHub"><img src="./icons/github.svg" width="44" height="44" alt="GitHub"></a>
+  <a href="https://gitlab.com" title="GitLab"><img src="./icons/gitlab.svg" width="44" height="44" alt="GitLab"></a>
+  <a href="https://www.docker.com" title="Docker"><img src="./icons/docker.svg" width="44" height="44" alt="Docker"></a>
+  <a href="https://www.kernel.org" title="Linux"><img src="./icons/linux.svg" width="44" height="44" alt="Linux"></a>
+  <a href="https://www.cloudflare.com" title="Cloudflare"><img src="./icons/cloudflare.svg" width="44" height="44" alt="Cloudflare"></a>
+  <a href="https://aws.amazon.com" title="AWS"><img src="./icons/aws.svg" width="44" height="44" alt="AWS"></a>
+  <a href="https://www.vultr.com" title="Vultr"><img src="./icons/vultr.svg" width="44" height="44" alt="Vultr"></a>
+</p>
+
+<p><b>Design</b><br>
+  <a href="https://www.figma.com" title="Figma"><img src="./icons/figma.svg" width="44" height="44" alt="Figma"></a>
+  <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="./icons/illustrator.svg" width="44" height="44" alt="Adobe Illustrator"></a>
+</p>
 
 ## Background
 
