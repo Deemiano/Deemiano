@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Dennis Miano — Full Stack Software Developer, Nairobi, Kenya" width="100%">
+  <img src="./banner.svg" alt="Dennis Miano, Full Stack Software Developer, Nairobi, Kenya" width="100%">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## Hi, I'm Dennis.
 
-I design and build websites, systems and mobile apps that businesses actually run on — built around how you work.
+I design and build websites, systems and mobile apps that businesses actually run on, built around how you work.
 
 I've spent **6+ years** shipping software for clients in Kenya and abroad, with **10+ projects delivered** across web, mobile, systems and IoT. I care about software that keeps working when the internet doesn't, and support you can actually reach.
 
@@ -21,7 +21,7 @@ I've spent **6+ years** shipping software for clients in Kenya and abroad, with 
 | | |
 |---|---|
 | **Websites & Web Design** | Business websites, landing pages, UI/UX |
-| **Custom Software & Systems** | POS, inventory, booking — offline-first |
+| **Custom Software & Systems** | POS, inventory, booking, built offline-first |
 | **SaaS & Internal Platforms** | Cloud platforms, dashboards, back-office tools |
 | **Mobile Apps** | Cross-platform Flutter apps for Android & iOS |
 | **AI Automation, Data & Chatbots** | WhatsApp/website chatbots, workflow automation, dashboards |
@@ -29,8 +29,8 @@ I've spent **6+ years** shipping software for clients in Kenya and abroad, with 
 
 ## Selected work
 
-- **Kisasa POS** — point-of-sale for retail that works fully offline, tracks sales and inventory, and syncs when reconnected. Windows & Android.
-- **[Rentisha](https://rentisha.co.ke)** — rental management platform for landlords and agencies.
+- **Kisasa POS**: point-of-sale for retail that works fully offline, tracks sales and inventory, and syncs when reconnected. Windows & Android.
+- **[Rentisha](https://rentisha.co.ke)**: rental management platform for landlords and agencies.
 - Worked with **[GraceWorks](https://graceworks.co.ke)**, **[Esque Kenya](https://esquekenya.com)**, **[RAJI Global](https://rajiglobal.co.ke)** and more.
 
 ## Tech I work with
@@ -45,16 +45,16 @@ I've spent **6+ years** shipping software for clients in Kenya and abroad, with 
 
 ## Background
 
-- BSc Computer Science — Egerton University
-- Full Stack Software Engineering — Moringa School
-- Cybersecurity — Moringa School
-- Flutter Mobile App Development — Udemy
+- BSc Computer Science, Egerton University
+- Full Stack Software Engineering, Moringa School
+- Cybersecurity, Moringa School
+- Flutter Mobile App Development, Udemy
 
 ## How I work
 
-1. **Discover** — a free call to understand your business, then a clear scope, SRS and quotation.
-2. **Build** — iterative delivery with regular demos, so there are no surprises.
-3. **Launch & support** — testing, deployment, training and ongoing support.
+1. **Discover**: a free call to understand your business, then a clear scope, SRS and quotation.
+2. **Build**: iterative delivery with regular demos, so there are no surprises.
+3. **Launch & support**: testing, deployment, training and ongoing support.
 
 ---
 
